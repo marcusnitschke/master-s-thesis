@@ -1,6 +1,6 @@
 # Marcus Steen Nitschke
 ## Python simulations for my master thesis
-All .py files require Numpy and Matplotlib to be installed, and can be run directly from the terminal. The .csv files in the "csv"-folder are exported from OpenRocket. "rocket verification.ork" is the design file in OpenRocket.
+All .py files require Numpy and Matplotlib to be installed, and can be run directly from the terminal. The .csv files are exported from OpenRocket. "rocket verification.ork" is the design file in OpenRocket.
 
 
 #### launchsim.py
